@@ -1,0 +1,7 @@
+.avatarStyle img{
+    width:200px;
+    height:200px
+}
+.avatarStyle h1,p{
+    text-align: center;
+}

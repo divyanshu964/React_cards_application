@@ -1,0 +1,22 @@
+.mainpage{
+    width: 50;
+    height: 100vh;
+    margin:auto;
+    background-color: #9ef7f7;
+    text-align: center;
+}
+.mainpage h1{
+    margin: 20px;
+    padding-top: 40px;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mainpage button{
+    color: blueviolet;
+    background-color: rgb(255, 255, 255);
+    box-shadow: #ff0000;
+}
+.btn{
+    align-items: center;
+    margin:30px;
+}
